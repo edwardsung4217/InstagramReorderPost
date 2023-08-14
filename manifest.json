@@ -1,0 +1,11 @@
+{
+    "name": "Instagram Reorder Posts",
+    "version": "1.0.0",
+    "description": "Google Chrome extension to reorder your Instagram posts",
+    "manifest_version": 3,
+    "author": "Edward Sung, Ryan Lee",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Instagram Reorder Posts"
+    }
+}

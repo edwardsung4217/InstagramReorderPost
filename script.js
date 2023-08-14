@@ -1,4 +1,4 @@
-const apiUrl = 'https://random-data-api.com/api/v2/beers?size=5';
+const apiUrl = 'https://random-data-api.com/api/v2/beers?size=9';
 
 // Function to fetch data from the API and populate the grid
 async function populateGrid() {
